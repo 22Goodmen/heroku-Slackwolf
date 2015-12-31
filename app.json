@@ -1,0 +1,8 @@
+{
+  "name": "Slackwolf",
+  "description": "Slackwolf is a bot for Slack. After inviting the bot to a channel, you can play the timeless game of Werewolf",
+  "repository": "https://github.com/joshentelect/heroku-Slackwolf.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["Slackwolf", "Werewolf", "Slack"],
+  
+}
