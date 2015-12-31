@@ -6,16 +6,16 @@
   "keywords": ["Slackwolf", "Werewolf", "Slack"],
    "env": {
     "BOT_TOKEN": {
-      "description": "Get a valid token from the "Custom Integrations" tab of your Slack "Configure Apps" page.",
+      "description": "Get a valid token from the Custom Integrations tab of your Slack Configure Apps page.",
       "value": "token"
     },
     "BOT_NAME": {
       "description": "be sure to put the correct bot name",
-      "value": "5"
+      "value": "slackbot"
     },
 	"TIMEZONE": {
       "description": "The number of processes to run.",
       "value": "America/Los_Angeles"
-    } 
+    }
 }
 }
