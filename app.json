@@ -14,7 +14,7 @@
       "value": "slackbot"
     },
 	"TIMEZONE": {
-      "description": "The number of processes to run.",
+      "description": "Time zome of the bot",
       "value": "America/Los_Angeles"
     }
 }
