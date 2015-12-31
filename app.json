@@ -4,6 +4,12 @@
   "repository": "https://github.com/joshentelect/heroku-Slackwolf.git",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["Slackwolf", "Werewolf", "Slack"],
+  {
+  "name": "Slackwolf",
+  "description": "Slackwolf is a bot for Slack. After inviting the bot to a channel, you can play the timeless game of Werewolf",
+  "repository": "https://github.com/joshentelect/heroku-Slackwolf.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["Slackwolf", "Werewolf", "Slack"],
    "env": {
     "BOT_TOKEN": {
       "description": "Get a valid token from the "Custom Integrations" tab of your Slack "Configure Apps" page.",
@@ -17,6 +23,6 @@
       "description": "The number of processes to run.",
       "value": "America/Los_Angeles"
     }
-  
+}
 }
 }
